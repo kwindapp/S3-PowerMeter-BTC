@@ -1,3 +1,6 @@
+Flash with right settings unplug... plugin in search wifi networks ....KWind IoT connectct and then connect with your wifi network done.....
+
+
 Bootloader !!! 0x0000 !!!!
 
 
