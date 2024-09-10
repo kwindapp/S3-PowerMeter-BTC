@@ -6,6 +6,7 @@ Bootloader !!! 0x0000 !!!!
 
 https://esp.huhn.me/
 
+Board ![IMG_4989](https://github.com/user-attachments/assets/19fdb2dc-9abd-44c3-8001-4a60c5529460)
 
 https://espressif.github.io/esptool-js/
 
