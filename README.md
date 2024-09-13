@@ -19,10 +19,11 @@ https://espressif.github.io/esptool-js/
 
 
 
+![WhatsApp Image 2024-09-14 at 00 33 16](https://github.com/user-attachments/assets/e9de7278-b216-4e77-bcdd-d4bff6880a88)
 
 
 
 
 
 
-![WhatsApp Image 2024-09-04 at 16 55 22](https://github.com/user-attachments/assets/916bb838-7298-4cfe-b494-026c7891d363)
+
